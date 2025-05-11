@@ -12,9 +12,6 @@ This website showcases my projects, skills, and ways to connect with me. It is b
 - JavaScript (planned)
 - Responsive design (in progress)
 
-## 🌐 Live Site
-
-Check it out live here: [https://yourusername.github.io/portfolio](https://yourusername.github.io/portfolio)
 
 ## 📁 Project Structure
 
